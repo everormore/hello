@@ -8,7 +8,7 @@
 * Create a file named PITCHME.md in the root directory of own's repository.
    - file name is case-sensitive.
    - md file should be written in Markdown.
-* Create the file on the repository, there's nothing to do with 'git add' or 'git push'
+* Create the file directly on the repository, there's nothing to do with 'git add' or 'git push'
 
 ---
 * Make URL by ownself like below and paste it on a web browser.
