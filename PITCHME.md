@@ -1,11 +1,11 @@
 ---
-# GitPitch Test
-#### 1. How to create
-#### 2. Sample Code with a image
+## GitPitch Test
+###### 1. How to create
+###### 2. Sample Code with a image
 
 ---
-# How to create
-#### 1. Create a file named PITCHME.md in the root directory of own's repository.
+## How to create
+###### 1. Create a file named PITCHME.md in the root directory of own's repository.
    - file name is case-sensitive.
    - md file should be written in Markdown.
 2. Create the file on the repository, there's nothing to do with 'git add' or 'git push'
