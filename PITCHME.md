@@ -16,8 +16,8 @@
 
 ---
 # Sample Code with a image
-'''python
+```python
 # Print what you want
 print("hello")
-'''
+```
 !(/img/screenshot1.png)
